@@ -33,8 +33,3 @@ This repository contains SQL practice scenarios and projects demonstrating real-
 
 ## 📁 Usage
 Each scenario is stored in its own `.sql` file once added.
-
-## 🚀 Future
-- Mini SQL business project
-- JOINs and advanced SQL examples
-- Dashboard export samples
